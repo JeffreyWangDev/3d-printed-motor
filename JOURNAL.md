@@ -7,7 +7,7 @@ created_at: "2024-07-17"
 
 
 ## Day One
-**8 hours**
+**7 hours**
 
 Today, I looked at designs for BLDC motors and settled on a 16-magnet, 12-winding design. Went over to Onshape and started to design one. I got the outside ring where the magnets sit designed. I also designed the stator base.
 <img width="766" height="551" alt="image" src="https://github.com/user-attachments/assets/44b013ef-dff0-4131-a644-f0db44bf06aa" />
