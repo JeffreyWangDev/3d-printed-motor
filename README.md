@@ -8,7 +8,7 @@ I always saw people make 3d printed drones online, but not many fully 3d printed
 
 ## Challenges
 1. Tolerances 
-
+2. Winding the motor, people say it takes hours to do 
 
 
 Link: https://cad.onshape.com/documents/d818dcde453da6b58f4a4fbb/w/359dcf9bd0bcc61e0ad702bd/e/f0c78a1fc73b3cb22290dd60?renderMode=0&uiState=68798e9469190838ea90e0f2
